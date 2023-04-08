@@ -1,0 +1,6 @@
+httpx
+marshmallow~=3.15.0
+requests~=2.27.1
+teslapy
+aioschedule
+firebase_admin
